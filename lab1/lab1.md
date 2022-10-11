@@ -1,13 +1,13 @@
 1 продемонстрировать работу команд:
 cat, ls, cp, mv, touch, rm, echo, cd,mkdir, rmdir,grep, less, pwd,diff, file, find, locate, head, tail, sort
-
+```
 alexey@ubuntu:/home$ cat file.txt
 adadad
 sadasd
 sadasd
 sadasdas
-
-
+```
+```
 alexey@ubuntu:/home$ ls -la
 total 28
 drwxr-xr-x  6 root   root   4096 Oct 10 23:29 .
@@ -19,7 +19,7 @@ drwxr-xr-x  4 root   root   4096 Mar 28  2022 v2ray
 drwxr-xr-x  2 root   root   4096 Mar 24  2022 wiws
 alexey@ubuntu:/home$ ls
 alexey  file.txt  softethervpn  v2ray  wiws
-
+```
 
 alexey@ubuntu:/home$ sudo cp file.txt file2.txt
 alexey@ubuntu:/home$ ls
